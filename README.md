@@ -10,5 +10,6 @@ Source:
 
 
 
-```Credit for colored marker```
+```Credit for colored markers:  ```
+
 https://github.com/pointhi/leaflet-color-markers
