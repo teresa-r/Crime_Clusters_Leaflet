@@ -8,3 +8,7 @@ Source:
 "http://datausa.io/api/data?Geography=16000US1714000:tracts&measure=Household Income by Race,Household Income by Race Moe&Race=0"
 
 
+
+
+```Credit for colored marker```
+https://github.com/pointhi/leaflet-color-markers
