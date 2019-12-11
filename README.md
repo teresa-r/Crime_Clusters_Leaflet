@@ -5,8 +5,7 @@
 
 Source:
 1) Income by Location (Chicaco, IL)
-"%20"
-"%http://datausa.io/api/data?Geography=16000US1714000:tracts&measure=Household Income by Race,Household Income by Race Moe&Race=020"
+http://datausa.io/api/data?Geography=16000US1714000:tracts&measure=Household Income by Race,Household Income by Race Moe&Race=0
 
 
 
